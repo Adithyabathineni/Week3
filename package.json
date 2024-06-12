@@ -25,7 +25,8 @@
   },
   "homepage": "https://github.com/rhildred/es6test#readme",
   "dependencies": {
-    "express": "*"
+    "express": "*",
+    "node": "^18.20.3"
   },
   "babel": {
     "presets": [
